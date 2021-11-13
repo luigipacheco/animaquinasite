@@ -39,12 +39,12 @@ disqus_shortname:   luigipacheco
 #bing-verify:
 email:              info@neobrutal.com
 twitter:            neobrutalstudio
-facebook:           neobtrutalstudio
-github-url:         luigipacheco
+facebook:           neobrutalstudio
+#github-url:         luigipacheco
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-linkedin:           luis-arturo-pacheco-16970a71
+linkedin:           https://www.linkedin.com/company/neobrutal
 #xing:              username
-instagram:          neobtrutalstudio
+instagram:          neobrutalstudio
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
@@ -52,7 +52,7 @@ instagram:          neobtrutalstudio
 #foursquare:        username
 #steam:              luigi_pacheco
 #dribbble:          username
-youtube:           luigipach
+#youtube:           luigipach
 #youtube-channel:   luigipach
 #soundcloud:        username
 #weibo:             username
