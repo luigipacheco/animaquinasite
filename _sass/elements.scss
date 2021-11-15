@@ -18,6 +18,12 @@
   font-size: 25px;
 	@extend %btnextend;
 }
+.main-btn {
+	padding: 20px;
+	margin: 20px;
+  font-size: 35px;
+	@extend %btnextend;
+}
 .btn {
 	padding: 10px 18px;
 	@include font-rem(14);
