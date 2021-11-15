@@ -8,7 +8,7 @@ comments: false
 
 Neobrutal Studio helps creative industries integrating cutting-edge technologies in their design and fabrication processes. We develop customized solutions from data collection, design, prototyping, analizing and final fabrication of a project.
 
-# Digital Manufacturing
+## Digital Manufacturing
 
   - Digital Manufacturing
     - Large scale 3D Printing.
@@ -23,20 +23,20 @@ Neobrutal Studio helps creative industries integrating cutting-edge technologies
   - Metaverse experiences and interactive archviz.
   - Creative robotics application and integration
 
-# Prototyping
+## Prototyping
 
 
 
-# Computational design & art
+## Computational design & art
   - Coming soon
 
-# Metaverse experiences and interactive archviz
+## Metaverse experiences and interactive archviz
   - Coming soon
 
-# Creative robotics application development and integration
+## Creative robotics application development and integration
   - Coming soon
 
-# Physical Computing
+## Physical Computing
   - Coming soon
 
 
