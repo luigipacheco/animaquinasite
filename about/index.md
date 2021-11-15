@@ -9,15 +9,22 @@ comments: false
 <center><a href="http://neobrutal.com"><b>Neobrutal Studio</b></a></center>
 
 # About Us 
-Neobrutal Studio helps creative industries implement new technologies.  
+Neobrutal Studio helps creative industries integrating cutting-edge technologies in their design and fabrication processes. We develop customized solutions from data collection, design, prototyping, analizing and final fabrication of a project.
 
 # Services
-  - Digital Manufacturing (3DP and CNC)
+  - Digital Manufacturing
+    - Large scale 3D Printing.
+      - Clay / Concrete
+      - Plastic Pellet extrusion
+      - Non-planar 3D printing
+    - Multi-Axis milling
+    - SLA
+    - FFF 
   - Prototyping
-  - Large scale 3D Printing (Plastic, Clay)
   - Parametric & generative design
-  - Metaverse experiences (virtual space architecture)
-  - Creative robotics integration
+  - Metaverse experiences and interactive archviz.
+  - Creative robotics application and integration
+  - geopacial analisis, 3D  scanning and data collection. 
 
 # Projects:
   - Coming soon
