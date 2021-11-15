@@ -3,7 +3,7 @@ layout: post
 title:  "Computational Design"
 date:   2021-06-06 18:54:32 -0500
 image: assets/images/fulls/cd.jpg
-thumbnail: /assets/images/thumbnails/lorenz3.jpg
+thumbnail: /assets/img/thumbnails/lorenz3.jpg
 project: true
 comments: false
 tags: [computational design]

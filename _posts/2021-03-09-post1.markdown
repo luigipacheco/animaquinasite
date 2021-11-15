@@ -3,7 +3,7 @@ layout: post
 title:  "Neobrutal Website"
 date:   2021-03-09 18:54:32 -0500
 image: assets/images/fulls/1.jpg
-thumbnail: assets/images/thumbnails/webthumb.png
+thumbnail: /assets/img/thumbnails/webthumb.png
 caption: Website
 project: true
 comments: false

@@ -3,7 +3,7 @@ layout: post
 title:  "Generative mines"
 date:   2021-03-09 18:54:32 -0500
 image: assets/images/fulls/1.jpg
-thumbnail: assets/images/thumbnails/w001thumb.png
+thumbnail: /assets/img/thumbnails/w001thumb.png
 project: true
 comments: false
 tags: [computational design, nft]

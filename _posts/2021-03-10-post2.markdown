@@ -3,7 +3,7 @@ layout: post
 title:  "Neobrutal Chessmen"
 date:   2021-03-09 18:54:32 -0500
 image: assets/images/fulls/1.jpg
-thumbnail: assets/images/thumbnails/chessthumb.png
+thumbnail: /assets/img/thumbnails/chessthumb.png
 caption: Chessmen
 project: true
 comments: false
