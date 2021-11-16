@@ -6,7 +6,7 @@ date: 2020-03-21
 comments: false
 ---
 
-Neobrutal Studio helps creative industries integrating cutting-edge technologies in their design and fabrication processes. We develop customized solutions from data collection, design and prototyping to the final fabrication of a project.
+Neobrutal Studio helps creative industries integrate cutting-edge technologies into their design processes. We develop customized solutions for data collection and design to create prototypes and final project fabrication.
 
 ## Digital Manufacturing
 
