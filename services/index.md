@@ -10,20 +10,20 @@ Neobrutal Studio helps creative industries integrate emerging technologies into 
 
 ## Advanced Manufacturing 
 
-  - Large scale 3D Printing.
+  - Additive manufacturing
+  - Large scale 3D Printing
   - Multi-Axis milling
-  - Robotics
-  - Plastics , clay, concrete , wood. 
+  - Robotic fabrication
 
 ## Computational  design & architecture
 
+  - Parametric and generative design
   - Spacial analytics and photogrametry
   - Data informed design
-  - Parametric and generative design
   - Creative coding 
   - Physical computing
-  - Interactive and immersive digital architecture
-  - Computer vision and machine learning 
+  - Immersive digital architecture (VR/AR)
+  - Machine Learning based design
 
 
 
