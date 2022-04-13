@@ -8,7 +8,7 @@ comments: false
 
 Neobrutal Studio helps creative industries integrate emerging technologies into their design processes. We develop customized solutions from data collection and design to the final project fabrication. Bringing new technologies to the architecture and construction industries and reducing of the gap between design and construction of complex geometries with digital manufacturing and data informed design. 
 
-## Advanced Manufacturing 
+## Advanced Manufacturing
 
   - Additive manufacturing
   - Large scale 3D Printing
@@ -17,17 +17,8 @@ Neobrutal Studio helps creative industries integrate emerging technologies into 
 
 ## Computational  design & architecture
 
+  - Design consulting for digital manufacturing
   - Parametric and generative design
-  - Spacial analytics and photogrametry
-  - Data informed design
-  - Creative coding 
+  - Photogrammetry and 3D scanning
   - Physical computing
-  - Immersive digital architecture (VR/AR)
-  - Machine Learning based design
-
-
-
-
-
-
-
+  - Creative coding
